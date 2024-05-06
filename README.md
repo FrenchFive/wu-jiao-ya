@@ -1,2 +1,2 @@
 # wu-jiao-ya
-My TWITTER BOT
+TWITTER BOT
